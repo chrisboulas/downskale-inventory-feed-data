@@ -1004,7 +1004,7 @@ MGT00915-007E,"MINI GT Toyota 2000GT Roadster James Bond ""You Only Live Twice""
 MGT00914-007E,"MINI GT BMW Z3 James Bond ""GoldenEye"" - English Packaging",preorder,https://downskale.com/products/mini-gt-bmw-z3-8220-goldeneye-8221-english-version-packaging-8211-limited-edition
 MGT00167,MINI GT Nissan Skyline GT-R Gr. A #12 Calsonic 1992 Japan Touring Car Championship,in_stock,https://downskale.com/products/mini-gt-nissan-skyline-gt-r-gr-a-12-calsonic-1992-japan-touring-car-championship
 MGT00437,MINI GT Nissan 35GT-RR LB-Silhouette Works GT Apple Green,in_stock,https://downskale.com/products/mini-gt-nissan-35gt-rr-lb-silhouette-works-gt-apple-green
-MGT00030,MINI GT Nissan LB Works GT-R R35 Satin Gold,in_stock,https://downskale.com/products/mini-gt-nissan-lb-works-gt-r-satin-gold
+MGT00030,MINI GT Nissan LB Works GT-R R35 Satin Gold,out_of_stock,https://downskale.com/products/mini-gt-nissan-lb-works-gt-r-satin-gold
 MGT00004,MINI GT Nissan Skyline GT-R R35 LB Works Light Blue,in_stock,https://downskale.com/products/mini-gt-nissan-skyline-gt-r-r35-lb-works-light-blue
 MGT00124,MINI GT Nissan Skyline GT-R R35 Pandem - Metallic Yellow with Carbon,in_stock,https://downskale.com/products/mini-gt-nissan-skyline-gt-r-r35-pandem-metallic-yellow-with-carbon
 MGT00528,MINI GT Nissan Skyline GT-R R35 LB Silhouette Works - LB Racing,in_stock,https://downskale.com/products/mini-gt-nissan-skyline-gt-r-r35-lb-silhouette-works-lb-racing
@@ -1098,7 +1098,14 @@ T64-105-WH,Tarmac Works LB-Silhouette WORKS GT NISSAN 35GT-RR – White,preorder
 MGT00917-007E,MINI GT James Bond 007 Aston Martin DBS “Casino Royale” – English Packaging - Grey,preorder,https://downskale.com/products/mini-gt-james-bond-007-aston-martin-dbs-casino-royale-english-packaging-grey
 MGT00918-007E,MINI GT James Bond 007 Land Rover Defender 110 Crew Cab “Skyfall”- English Packaging - Grey,preorder,https://downskale.com/products/mini-gt-james-bond-007-land-rover-defender-110-crew-cab-skyfall-english-packaging-grey
 PR640313,Pop Race Mazda 787B 1991 Test Car,preorder,https://downskale.com/products/pop-race-mazda-787b-1991-test-car-default
-PR640317,Pop Race - Pandem 280ZX - Orange,preorder,https://downskale.com/products/pop-race-pandem-280zx-orange
-PR640501,Pop Race - EVA RT Test Type-01 RE Super G Time Attack - Default,preorder,https://downskale.com/products/pop-race-eva-rt-test-type-01-re-super-g-time-attack-default
-PR640508,Pop Race - Pandem R32 - Gun Metal,preorder,https://downskale.com/products/pop-race-pandem-r32-gun-metal
-PR640511,Pop Race - Pandem Fuso 300 Flatbed Transporter Advan - Default,preorder,https://downskale.com/products/pop-race-pandem-fuso-300-flatbed-transporter-advan-default
+PR640317,Pop Race Datsun Pandem 280ZX - Orange,preorder,https://downskale.com/products/pop-race-pandem-280zx-orange
+PR640501,Pop Race Mazda EVA RT Test Type-01 RE Super G Time Attack - Default,preorder,https://downskale.com/products/pop-race-eva-rt-test-type-01-re-super-g-time-attack-default
+PR640508,Pop Race Nissan Skyline GT-R Pandem R32 - Grey,preorder,https://downskale.com/products/pop-race-pandem-r32-gun-metal
+PR640511,Pop Race Mitsubishi Pandem Fuso 300 Flatbed Transporter Advan,preorder,https://downskale.com/products/pop-race-pandem-fuso-300-flatbed-transporter-advan-default
+PR640493,Pop Race Mazda RX-7 (FD3S) Re-Amemiya BAPE Store Hong Kong 20th Anniversary Edition,in_stock,https://downskale.com/products/pop-race-mazda-rx-7-fd3s-re-amemiya-bape-store-hong-kong-20th-anniversary-edition
+MGT01248-BL,MINI GT NISSAN LB-Silhouette WORKS GT 35GT-RR Ver.1 – Matt Grey - Matte Grey,preorder,https://downskale.com/products/mini-gt-nissan-lb-silhouette-works-gt-35gt-rr-ver-1-matt-grey-matte-grey
+MGT01247-BL,"MINI GT BMW M4 GT3 EVO #1 Paul Miller Racing 2025 IMSA Daytona 24Hrs - Blue, Red, White",preorder,https://downskale.com/products/mini-gt-bmw-m4-gt3-evo-1-paul-miller-racing-2025-imsa-daytona-24hrs-blue-red-white
+MGT01304-BL,MINI GT Porsche 911 (992) GT3 RS Weissach Package – Gulf - Orange,preorder,https://downskale.com/products/mini-gt-porsche-911-992-gt3-rs-weissach-package-gulf-orange
+MGT01249-BL,MINI GT Mazda MX-5 (NA) Pandem – Mint - Green,preorder,https://downskale.com/products/mini-gt-mazda-mx-5-na-pandem-mint-green
+MGT01303-BL,MINI GT McLaren F1 – Blue Black Metallic - Blue,preorder,https://downskale.com/products/mini-gt-mclaren-f1-blue-black-metallic-blue
+MGT01305-BL,MINI GT Aston Martin DB5 – Fiesta - Red,preorder,https://downskale.com/products/mini-gt-aston-martin-db5-fiesta-red
