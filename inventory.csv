@@ -136,7 +136,7 @@ KHMG129C,Kaido House Nissan Skyline GT-R R33 HKS V1 - Chase,out_of_stock,https:/
 T64S-003-94LMC,Tarmac Works Schuco Porsche 911 RSR 3.8 Le Man 1994 - Chase,out_of_stock,https://downskale.com/products/tarmac-works-schuco-porsche-911-rsr-3-8-le-man-1994-chase
 MGT00788-BL,MINI GT Lamborghini Huracan STO Bianco Asopo,out_of_stock,https://downskale.com/products/mini-gt-lamborghini-huracan-sto-bianco-asopo
 MGT00895-BL,MINI GT 1:64 Nissan LB-Super Silhouette S15 SILVIA #555 2023 Formula Drift Japan,in_stock,https://downskale.com/products/mini-gt-1-64-nissan-lb-super-silhouette-s15-silvia-555-2023-formula-drift-japan
-MGT00898-BL,MINI GT Ford Mustang GT3 #64 Ford Multimatic Motorsports 2024 IMSA Daytona 24Hrs,preorder,https://downskale.com/products/mini-gt-ford-mustang-gt3-64-ford-multimatic-motorsports-2024-imsa-daytona-24hrs
+MGT00898-BL,MINI GT Ford Mustang GT3 #64 Ford Multimatic Motorsports 2024 IMSA Daytona 24Hrs,out_of_stock,https://downskale.com/products/mini-gt-ford-mustang-gt3-64-ford-multimatic-motorsports-2024-imsa-daytona-24hrs
 IN64-R89C-LMT1988,Inno64 Nissan R89C Le Mans Shakedown Test Paul Ricard 1988,out_of_stock,https://downskale.com/products/inno64-nissan-r89c-le-mans-shakedown-test-paul-ricard-1988
 IN64-AE86PL-GRN,"Inno64 Toyota AE86 Levin ""Pandem Rocket Bunny"" Green",in_stock,https://downskale.com/products/inno64-toyota-ae86-levin-pandem-rocket-bunny-green
 IN64-R33P-PPL,"Inno64 Nissan Skyline GT-R R33 ""Pandem Rocket Bunny"" Purple",out_of_stock,https://downskale.com/products/inno64-nissan-skyline-gt-r-r33-pandem-rocket-bunny-purple
@@ -546,7 +546,7 @@ MGT00996-BLC,MINI GT Mazda RX-7 FD3S Itosyoukai Rei-gouki RE Amemiya - Chase,out
 MGT00970-BLC,MINI GT Mercedes-Benz EQS 580 4MATIC – Red Metallic - Chase,in_stock,https://downskale.com/products/mini-gt-mercedes-benz-eqs-580-4matic-red-metallic-chase
 MGT00995-BL,MINI GT Abarth 595 LB-WORKS x Abas Works - Grey,in_stock,https://downskale.com/products/mini-gt-abarth-595-lb-works-x-abas-works-grey
 KHMG213,Kaido House Nissan Skyline GT-R (R33) BFTHR V1,preorder,https://downskale.com/products/kaido-house-nissan-skyline-gt-r-r33-bfthr-v1
-KHMG212,Kaido House Chevrolet Silverado KAIDO Intimidator V1,preorder,https://downskale.com/products/kaido-house-chevrolet-silverado-kaido-intimidator-v1
+KHMG212,Kaido House Chevrolet Silverado KAIDO Intimidator V1,in_stock,https://downskale.com/products/kaido-house-chevrolet-silverado-kaido-intimidator-v1
 KHMG198,Kaido House Honda Civic (EF) Kaido Loop Spec V1 - Pink,preorder,https://downskale.com/products/kaido-house-honda-civic-ef-kaido-loop-spec-v1-pink
 KHMG232,Kaido House Nissan Silvia S13-R KAIDO WORKS V1 - Sea Foam Green,in_stock,https://downskale.com/products/kaido-house-nissan-silvia-s13-r-kaido-works-v1-sea-foam-green
 T64R-076-RE2,Tarmac Works Ferrari F40 - Red,in_stock,https://downskale.com/products/tarmac-works-ferrari-f40-red
@@ -1166,3 +1166,9 @@ KHMG246,MINI GT Kaido House x Honda Civic (EF) Kaido Street V1 - White,preorder,
 KHMG304,Kaido House Chevrolet Camaro KAIDO WORKS TA V1 - White,preorder,https://downskale.com/products/mini-gt-kaido-house-x-chevrolet-camaro-kaido-works-ta-v1-white
 KHMG302,Kaido House Datsun KAIDO 510 GULF Wagon V1 - Blue,preorder,https://downskale.com/products/mini-gt-kaido-house-x-datsun-kaido-510-gulf-wagon-v1-blue
 KHMG297,Kaido House Nissan Fairlady Z Kaido Street V1 - Purple,preorder,https://downskale.com/products/mini-gt-kaido-house-x-nissan-fairlady-z-kaido-street-v1-purple
+KHMG212C,Kaido House Chevrolet Silverado KAIDO Intimidator V1 - Chase,in_stock,https://downskale.com/products/kaido-house-chevrolet-silverado-kaido-intimidator-v1-chase
+PR640365,Pop Race Honda Civic EG6 Pandem - Blue,preorder,https://downskale.com/products/pop-race-pandem-civic-eg6-blue
+PR640242,Pop Race Lamborghini Huracan STO - Matte Grey,preorder,https://downskale.com/products/pop-race-lamborghini-huracan-sto-matte-grey
+PR640311,Pop Race Toyota Supra EVA RT Test Type-01 Goodride Pandem GR Supra,preorder,https://downskale.com/products/pop-race-toyota-supra-eva-rt-test-type-01-goodride-pandem-gr-supra
+PRDC003,Pop Race Nissan Skyline GT-R R33 Dark Chrome Series,in_stock,https://downskale.com/products/pop-race-nissan-skyline-gt-r-r33-dark-chrome-series
+PR640075,Pop Race Nissan Skyline GT-R Drift Hakosuka Watanabe,in_stock,https://downskale.com/products/pop-race-nissan-skyline-gt-r-drift-hakosuka-watanabe
