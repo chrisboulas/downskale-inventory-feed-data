@@ -1169,7 +1169,7 @@ PR640365,Pop Race Honda Civic EG6 Pandem - Blue,preorder,https://downskale.com/p
 PR640242,Pop Race Lamborghini Huracan STO - Matte Grey,preorder,https://downskale.com/products/pop-race-lamborghini-huracan-sto-matte-grey
 PR640311,Pop Race Toyota Supra EVA RT Test Type-01 Goodride Pandem GR Supra,in_stock,https://downskale.com/products/pop-race-toyota-supra-eva-rt-test-type-01-goodride-pandem-gr-supra
 PRDC003,Pop Race Nissan Skyline GT-R R33 Dark Chrome Series,in_stock,https://downskale.com/products/pop-race-nissan-skyline-gt-r-r33-dark-chrome-series
-PR640075,Pop Race Nissan Skyline GT-R Drift Hakosuka Watanabe,in_stock,https://downskale.com/products/pop-race-nissan-skyline-gt-r-drift-hakosuka-watanabe
+PR640075,Pop Race Nissan Skyline GT-R Drift Hakosuka Watanabe,out_of_stock,https://downskale.com/products/pop-race-nissan-skyline-gt-r-drift-hakosuka-watanabe
 IN64-E30P-SILBLU,Inno64 BMW E30 M3 Pandem Silver/Blue,in_stock,https://downskale.com/products/inno64-bmw-e30-m3-pandem-silver-blue
 IN64-VR32TS-WHITE,Inno64 Nissan Skyline GT-R VR32 Top Secret - White,in_stock,https://downskale.com/products/inno64-nissan-skyline-gt-r-vr32-top-secret-white
 IN64-S2000JS-BLUE,Inno64 Honda S2000 J's Racing - Blue,in_stock,https://downskale.com/products/inno64-honda-s2000-js-racing-blue
@@ -1183,7 +1183,7 @@ MGT01316-BL,MINI GT Nissan Z VeilSide FFZ400 Ikazuchi - Yellow,preorder,https://
 MGT01317-BL,MINI GT Honda Prelude Rallye Red – Limited Edition - Red,preorder,https://downskale.com/products/mini-gt-honda-prelude-rallye-red-limited-edition-new-tooling-red
 MGT01318-BL,MINI GT McLaren F1 GTR 1995 Presentation - Orange,preorder,https://downskale.com/products/mini-gt-mclaren-f1-gtr-1995-presentation-orange-silver-two-tone
 MGT01319-BL,MINI GT BMW M3 M Performance Touring Riviera - Blue,preorder,https://downskale.com/products/mini-gt-bmw-m3-m-performance-touring-riviera-blue
-MGT01143-BLP,"MINI GT Porsche 911 GT3 R #77 AO Racing 2025 IMSA Petit Le Mans ""Skeleton Rexy"" Petersen Museum Exclusive",out_of_stock,https://downskale.com/products/mini-gt-porsche-911-gt3-r-77-ao-racing-2025-imsa-petit-le-mans-skeleton-rexy-petersen-museum-exclusive
+MGT01143-BLP,"MINI GT Porsche 911 GT3 R #77 AO Racing 2025 IMSA Petit Le Mans ""Skeleton Rexy"" Petersen Museum Exclusive",in_stock,https://downskale.com/products/mini-gt-porsche-911-gt3-r-77-ao-racing-2025-imsa-petit-le-mans-skeleton-rexy-petersen-museum-exclusive
 PR640535,Pop Race Porsche RWB 930 Pink Pig - Pink,preorder,https://downskale.com/products/pop-race-rwb-930-pink-pig-pink
 PR640578,Pop Race Ford Mustang Shelby GT350R - Race Red,preorder,https://downskale.com/products/pop-race-ford-mustang-shelby-gt350r-race-red
 T64MC-023-WR,Tarmac Works x Minichamps Porsche GT3RS (992.2) MR – White,preorder,https://downskale.com/products/tarmac-works-x-minichamps-porsche-gt3rs-992-2-mr-white-red-showcase-white
@@ -1246,3 +1246,9 @@ IN64-A90DP-GBLACK,Inno64 Toyota Supra A90 Darwin Pro - Black,preorder,https://do
 IN64-FL5JS MAOU,Inno64 Honda Civic Type R FL5 J's Racing Maou - Yellow,preorder,https://downskale.com/products/inno64-honda-civic-type-r-fl5-js-racing-maou-yellow
 IN64-E30P-WHI,Inno64 BMW E30 Pandem Rocket Bunny - White,preorder,https://downskale.com/products/inno64-bmw-e30-pandem-rocket-bunny-white
 T64G-060-STEAM,Tarmac Works - Toyota Sprinter Trueno AE86 Widebody by Jon Sibal Mickey & Friends Steamboat Willie w/ Trading Card Combo Set - White,preorder,https://downskale.com/products/tarmac-works-toyota-sprinter-trueno-ae86-widebody-by-jon-sibal-mickey-friends-steamboat-willie-w-trading-card-combo-set-white
+T64G-087-SL-B,Tarmac Works - Nissan Skyline 2000GT-R (KPGC110) – Silver – Global64 - Silver,preorder,https://downskale.com/products/tarmac-works-nissan-skyline-2000gt-r-kpgc110-silver-global64-silver
+T64G-085-GY-B,Tarmac Works - Porsche 928 S4 – Grey Metallic- Global64 - Grey,preorder,https://downskale.com/products/tarmac-works-porsche-928-s4-grey-metallic-global64-grey
+T64G-076-97RAC02-B,Tarmac Works - Mitsubishi Carisma GT Evolution IV RAC Rally 1997 Richard Burns / Robert Reid- Global64 - White,preorder,https://downskale.com/products/tarmac-works-mitsubishi-carisma-gt-evolution-iv-rac-rally-1997-richard-burns-robert-reid-global64-white
+T64G-050-RE-B,Tarmac Works - Mitsubishi Lancer GSR Evolution III – Red – Global64 - Red,preorder,https://downskale.com/products/tarmac-works-mitsubishi-lancer-gsr-evolution-iii-red-global64-red
+T64G-TL089-BL-B,Tarmac Works - Kimera EVO37 – Blue – Global64 - Blue,preorder,https://downskale.com/products/tarmac-works-kimera-evo37-blue-global64-blue
+T64G-074-MP-B,Tarmac Works - Nissan VeilSide FFZ400 Fairlady Z – Chameleon purple – Global64 - Purple,preorder,https://downskale.com/products/tarmac-works-nissan-veilside-ffz400-fairlady-z-chameleon-purple-global64-purple
