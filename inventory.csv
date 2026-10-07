@@ -609,7 +609,7 @@ IN64-LBWKF40-XMAS23,Inno64 F40 LBWK Christmas Edition 2023 - Chase,out_of_stock,
 IN64-LBWKF40-CHS,Inno64 LBWK F40 Hobby Expo China 2024 Chrome Chase,out_of_stock,https://downskale.com/products/inno64-lbwk-f40-hobby-expo-china-2024-chrome-chase
 IN64-LBWKF40-TAS23,Inno64 LBWK F40 Tokyo Auto Salon 2023 - with Japan Flag,out_of_stock,https://downskale.com/products/inno64-lbwk-f40-tokyo-auto-salon-2023-with-japan-flag
 IN64-LBWKF40-TAS23,Inno64 LBWK F40 Tokyo Auto Salon 2023 - Japan Flag Included,out_of_stock,https://downskale.com/products/inno64-lbwk-f40-tokyo-auto-salon-2023-japan-flag-included
-IN64-F40LBWK-RED,Inno64 LBWK F40 Red with Japan Flag,in_stock,https://downskale.com/products/inno64-lbwk-f40-red-with-japan-flag
+IN64-F40LBWK-RED,Inno64 LBWK F40 Red with Japan Flag,out_of_stock,https://downskale.com/products/inno64-lbwk-f40-red-with-japan-flag
 IN64-F40LBWK-RED,Inno64 LBWK F40 Red - Japan Flag Included,out_of_stock,https://downskale.com/products/inno64-lbwk-f40-red-japan-flag-included
 MGT00975-BLC,MINI GT Subaru Impreza WRC98 1998 Rally Monte Carlo Colin McRae #3 - Chase,out_of_stock,https://downskale.com/products/mini-gt-subaru-impreza-wrc98-1998-rally-monte-carlo-colin-mcrae-3-chase
 KHMG195,Kaido House Nissan Skyline 2000GT-R (KPGC10) Kaido Racing V1 - Chase,out_of_stock,https://downskale.com/products/kaido-house-nissan-skyline-2000gt-r-kpgc10-kaido-racing-v1-chase
@@ -1511,7 +1511,7 @@ MGT01413-BL,MINI GT Aston Martin AMR24 #18 Lance Stroll 2024 F1 2024 Las Vegas G
 MGT01395-BL,MINI GT Bugatti EB110 GT Azzurro Metallizzato Mondial de l’Automobile 1992 - Blue,preorder,https://downskale.com/products/mini-gt-bugatti-eb110-gt-azzurro-metallizzato-mondial-de-l-automobile-1992-blue
 MGT00172-R,MINI GT Lamborghini Urus - Blue Eleos with Roof Box,out_of_stock,https://downskale.com/products/mini-gt-lamborghini-urus-blue-eleos-with-roof-box
 MGT00363-MJ,MINI GT Lamborghini Aventador SVJ Roadster - Oro Elios [Open Box],in_stock,https://downskale.com/products/mini-gt-lamborghini-aventador-svj-roadster-oro-elios-open-box
-MGT00193-MJ,MINI GT Lamborghini Huracan EVO Bolgna Airport 2020 [Open Box],in_stock,https://downskale.com/products/mini-gt-lamborghini-huracan-evo-bolgna-airport-2020-open-box
+MGT00193-MJ,MINI GT Lamborghini Huracan EVO Bolgna Airport 2020 [Open Box],out_of_stock,https://downskale.com/products/mini-gt-lamborghini-huracan-evo-bolgna-airport-2020-open-box
 MGT00148-MJ,MINI GT Lamborghini Huracan LB Works White with Red Stripe [Open Box],in_stock,https://downskale.com/products/mini-gt-lamborghini-huracan-lb-works-white-with-red-stripe-open-box
 MGT00114-MJ,MINI GT Lamborghini Huracan Evo - Arancio Borealis [Open Box],in_stock,https://downskale.com/products/mini-gt-lamborghini-huracan-evo-arancio-borealis-open-box
 MGT00069-R,MINI GT Nissan GT-R LB Works Metallic Brown [Open Box],in_stock,https://downskale.com/products/mini-gt-nissan-gt-r-lb-works-metallic-brown-open-box
@@ -1519,3 +1519,9 @@ MGT00421-MJ,MINI GT Porsche 911 Ruf Rodeo Presentation [Open Box],in_stock,https
 MGT00238-MJ,MINI GT Bentley Continental GT3 2020 Liqui-Moly Bathurst 12Hr. Winner [Open Box],in_stock,https://downskale.com/products/mini-gt-bentley-continental-gt3-2020-liqui-moly-bathurst-12hr-winner-open-box
 MGT00633-R,MINI GT Nissan Silvia S15 Rocket Bunny Chrome Blue Give Charity China 2023 [Open Box],in_stock,https://downskale.com/products/mini-gt-nissan-silvia-s15-rocket-bunny-chrome-blue-give-charity-china-2023-open-box
 MGT01214-R,MINI GT Mazda RX-7 FD3S Veilside Give Charity Make a Wish Malaysia 2026 [Open Box],in_stock,https://downskale.com/products/mini-gt-mazda-rx-7-fd3s-veilside-give-charity-make-a-wish-malaysia-2026-open-box
+W640041,Works (Pop Race) Nissan Nismo 380S Canadian Diecast Expo 2026 CDX Exclusive,in_stock,https://downskale.com/products/works-pop-race-nissan-nismo-380s-canadian-diecast-expo-2026-cdx-exclusive
+PR640574,Pop Race Nissan QR32 Pandem Rocket Bunny Canadian Diecast Expo 2026 CDX Exclusive,in_stock,https://downskale.com/products/pop-race-nissan-qr32-pandem-rocket-bunny-canadian-diecast-expo-2026-cdx-exclusive
+PR640570,Pop Race Mazda RX-7 FD3S LB Super Silhouette Purple Chrome - Canadian Diecast Expo 2026 CDX Exclusive,in_stock,https://downskale.com/products/pop-race-mazda-rx-7-fd3s-lb-super-silhouette-purple-chrome-canadian-diecast-expo-2026-cdx-exclusive
+PR640568,Pop Race Mazda RX-7 FD3S LB Super Silhouette Black - Canadian Diecast Expo 2026 CDX Exclusive,in_stock,https://downskale.com/products/pop-race-mazda-rx-7-fd3s-lb-super-silhouette-black-canadian-diecast-expo-2026-cdx-exclusive-copy
+PR640569,Pop Race Nissan Silvia S15 LB Super Silhouette - Canadian Diecast Expo 2026 CDX Exclusive,in_stock,https://downskale.com/products/pop-race-nissan-silvia-s15-lb-super-silhouette-canadian-diecast-expo-2026-cdx-exclusive
+IN64-LBWK997-CDE26,Inno64 Porsche 997 RWB Canadian Diecast Expo 2026 CDX Exclusive (Chance of Chase!),in_stock,https://downskale.com/products/inno64-porsche-997-rwb-canadian-diecast-expo-2026-cdx-exclusive
