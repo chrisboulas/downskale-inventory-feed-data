@@ -1069,7 +1069,7 @@ MGT00916-007J,MINI GT Aston Martin V8 Vantage The Living Daylights – Japanese 
 T64-097-26HEC,Tarmac Works LB-KAIDO WORKS Nissan R32 Skyline CLDC Special – White,preorder,https://downskale.com/products/tarmac-works-lb-kaido-works-nissan-r32-skyline-cldc-special-hobby64-gold-two-tone-white
 IN64-R34TS-WHI,Inno64 Nissan Skyline GT-R R34 Top Secret - White,out_of_stock,https://downskale.com/products/inno64-nissan-skyline-gt-r-r34-top-secret-white
 IN64-R32-MP-AS,Inno64 Nissan Skyline GT-R R32 Midnight Purple Australia Special Edition,in_stock,https://downskale.com/products/inno64-nissan-skyline-gt-r-r32-midnight-purple-australia-special-edition
-IN64-R35LB-AORUS,Inno64 Nissan GT-R R35 Widebody AORUS Limited Edition,in_stock,https://downskale.com/products/inno64-nissan-gt-r-r35-widebody-aorus-limited-edition
+IN64-R35LB-AORUS,Inno64 Nissan GT-R R35 Widebody AORUS Limited Edition,out_of_stock,https://downskale.com/products/inno64-nissan-gt-r-r35-widebody-aorus-limited-edition
 MGT00957-BLC,MINI GT Ford Mustang Dark Horse 2024 - Carbonized Gray - Chase,out_of_stock,https://downskale.com/products/mini-gt-ford-mustang-dark-horse-2024-carbonized-gray-chase
 T64G-042-GRC,Tarmac Works Mercedes-Benz AMG GT Black Series - Green - Chase,out_of_stock,https://downskale.com/products/tarmac-works-mercedes-benz-amg-gt-black-series-green-chase
 MGT01244-R,"MINI GT Ford XB Falcon GT – #25, Allan Moffat / Ian “Pete” Geoghegan – 1975 Bathurst 1000 – Australia Exclusive",preorder,https://downskale.com/products/mini-gt-ford-xb-falcon-gt-25-allan-moffat-ian-pete-geoghegan-1975-bathurst-1000-australia-exclusive-red
@@ -1471,7 +1471,7 @@ T64-TL017-MP,Tarmac Works Porsche RWB 993 Philippines Diecast Expo Exclusive,in_
 PRE019,Pop Race Nissan Skyline GT-R R33 Nismo 400R Championship Blue - Enigma Exclusive,in_stock,https://downskale.com/products/pop-race-nissan-skyline-gt-r-r33-nismo-400r-championship-blue-enigma-exclusive
 PRE016,Pop Race Mazda RX-8 RE-Amemiya Red - Engima Exclusive,in_stock,https://downskale.com/products/pop-race-mazda-rx-8-re-amemiya-red-engima-exclusive
 S49-APAXPO2025,Pop Race Nissan Laurel C130 APA XPO 2025 Event Exclusive,in_stock,https://downskale.com/products/pop-race-nissan-laurel-c130-apa-xpo-2025-event-exclusive
-PR64-850-PROT,Pop Race Volvo 850 Estate Touring Car Prototype,in_stock,https://downskale.com/products/pop-race-volvo-850-estate-touring-car-prototype
+PR64-850-PROT,Pop Race Volvo 850 Estate Touring Car Prototype,out_of_stock,https://downskale.com/products/pop-race-volvo-850-estate-touring-car-prototype
 MGT01383-L,MINI GT Hyundai Ioniq 5 Police Car – Korea Exclusives - White,preorder,https://downskale.com/products/mini-gt-hyundai-ioniq-5-police-car-korea-exclusives-white
 MGT01384-L,MINI GT Hyundai Staria TAXI – Korea Exclusives - Black,preorder,https://downskale.com/products/mini-gt-hyundai-staria-taxi-korea-exclusives-black
 MGT01385-L,MINI GT Hyundai Casper Butter Cream Yellow Pearl – Korea Exclusives - Beige,preorder,https://downskale.com/products/mini-gt-hyundai-casper-butter-cream-yellow-pearl-korea-exclusives-beige
@@ -1535,3 +1535,13 @@ T64G-042-SCB-B,Tarmac Works Mercedes-Benz AMG GT Black Series Safety Car of Brit
 T64G-080-KU,Tarmac Works VERTEX Toyota Soarer JZZ30 Kuromi Sanrio - Purple,preorder,https://downskale.com/products/tarmac-works-vertex-toyota-soarer-jzz30-kuromi-sanrio-purple
 T64G-023-EVA01-B,Tarmac Works EVA RT TEST TYPE-01 S15 - Purple,preorder,https://downskale.com/products/tarmac-works-eva-rt-test-type-01-s15-purple
 T64G-061-JV,Tarmac Works Nissan Skyline (R32) Widebody – Designed by JOSHUA VIDES,preorder,https://downskale.com/products/tarmac-works-nissan-skyline-r32-widebody-designed-by-joshua-vides-matte-white
+MGT01414-L,MINI GT Ducati Panigale V4 S with Ducati Figure - Yellow,preorder,https://downskale.com/products/mini-gt-ducati-panigale-v4-s-with-ducati-figure-yellow
+MGT01418-BL,MINI GT Mercedes-AMG EQS 53 - Blue,preorder,https://downskale.com/products/mini-gt-mercedes-amg-eqs-53-blue
+MGT01417-BL,MINI GT Toyota 2000GT Pegasus - White,preorder,https://downskale.com/products/mini-gt-toyota-2000gt-pegasus-white
+MGT01353-BL,MINI GT Porsche 911 GT3 RS STAPLE x INOZETEK - Grey,preorder,https://downskale.com/products/mini-gt-porsche-911-gt3-rs-staple-x-inozetek-grey
+MGT01415-BL,MINI GT BMW Z3 Titanium - Silver,preorder,https://downskale.com/products/mini-gt-bmw-z3-titanium-silver
+MGT01352-BL,MINI GT LB-Silhouette WORKS GT NISSAN 35GT-RR Ver.2 INOZETEK Edition - Black,preorder,https://downskale.com/products/mini-gt-lb-silhouette-works-gt-nissan-35gt-rr-ver-2-inozetek-edition-black
+MGT01416-BL,MINI GT Lamborghini Countach LB-WORKS Army - Green,preorder,https://downskale.com/products/mini-gt-lamborghini-countach-lb-works-army-green
+PR640634,Pop Race Lamborghini Countach LPI 800-4 - Verde Themis,preorder,https://downskale.com/products/pop-race-lamborghini-countach-lpi-800-4-green
+PR640631,Pop Race Porsche Singer DLS Turbo - Purple,preorder,https://downskale.com/products/pop-race-porsche-singer-dls-turbo-purple
+PR640532,Pop Race Lamborghini Veneno - Verde Ithaca,preorder,https://downskale.com/products/pop-race-lamborghini-veneno-green
